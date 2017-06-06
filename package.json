@@ -1,0 +1,21 @@
+{
+  "name": "project-pc",
+  "version": "1.0.0",
+  "description": "pc",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "*",
+    "gulp-clean": "*",
+    "gulp-livereload": "*",
+    "tiny-lr": "*"
+  },
+  "keywords": [
+    "project-pc"
+  ],
+  "author": "zhaozb",
+  "license": "ISC"
+}
