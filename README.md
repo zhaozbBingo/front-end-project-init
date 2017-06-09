@@ -3,6 +3,7 @@
  >> win10系统，nodejs，IntelliJ IDEA 2017.1.2
 > ## 步骤
 >> 1.更新项目至本地，安装项目中gulp相关依赖，这里把涉及到的几个依赖放到package.json中，所以只需要执行**npm install**即可一步安装完成
+>> 2.执行**gulp**命令运行项目，浏览器地址栏输入访问地址：http://localhost:3000/src/static/person.html访问
 
 > ## 主要用到的gulp插件有
 >> ### gulp-load-plugins
