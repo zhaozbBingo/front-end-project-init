@@ -8,14 +8,28 @@
   },
   "dependencies": {
     "gulp": "^3.9.1",
+    "gulp-load-plugins": "*",
+    "browser-sync": "*",
     "gulp-less": "*",
     "gulp-clean": "*",
     "gulp-livereload": "*",
-    "tiny-lr": "*"
+    "tiny-lr": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-imagemin": "*",
+    "gulp-htmlmin": "*",
+    "gulp-clean-css": "*",
+    "gulp-uglify": "*",
+    "gulp-concat": "*",
+    "gulp-rename": "*",
+    "gulp-autoprefixer": "*"
   },
   "keywords": [
     "project-pc"
   ],
   "author": "zhaozb",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1"
+  }
 }

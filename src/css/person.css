@@ -1,4 +1,12 @@
 body {
   width: 1000px;
-  background-color: #3db098;
+  background-color: #000;
+  border-radius: 5px;
 }
+a {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+/*# sourceMappingURL=map/person.css.map */
